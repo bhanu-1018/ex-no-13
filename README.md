@@ -1,6 +1,6 @@
 # ex-no-13
 Implementation-of-SVM-For-Spam-Mail-Detection
-## Register Number: 212222040173
+## Register Number: 212221060180
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 ## Algorithm
