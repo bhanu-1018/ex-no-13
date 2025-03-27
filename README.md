@@ -1,5 +1,6 @@
 # ex-no-13
 Implementation-of-SVM-For-Spam-Mail-Detection
+## date : 22/02/2025
 ## Register Number: 212221060180
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
